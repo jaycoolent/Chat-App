@@ -1,7 +1,15 @@
 
-Table Views are a fundemental aspect of iOS apps. They are used everywhere from the Mail to the Messages app. Crucial part of an iOS developer’s tool belt. 
+Table Views are a fundemental aspect of iOS apps. They are used everywhere from the Mail app to the IMessages. Crucial part of an iOS developer’s skillset. 
 
 What willl be created?
+
+
+<img width="392" alt="Screen Shot 2023-01-22 at 3 00 33 PM" src="https://user-images.githubusercontent.com/84664345/213938354-7d1a68d5-8aec-4cb7-b272-af349a95b43c.png">
+
+<img width="391" alt="Screen Shot 2023-01-22 at 3 01 11 PM" src="https://user-images.githubusercontent.com/84664345/213938366-ace2ed9b-af71-4b04-8f26-f7b2583f23af.png">
+
+<img width="383" alt="Screen Shot 2023-01-22 at 3 11 41 PM" src="https://user-images.githubusercontent.com/84664345/213938374-1a47ed07-a4c7-4b11-a243-34f14eaa3dce.png">
+
 
 An internet based chat application which is somewhat similar to WhatsApp. With this application, we're going to be integrating Firebase Firestore as our backend database to store our messages and also to retreive them from the cloud.
 
